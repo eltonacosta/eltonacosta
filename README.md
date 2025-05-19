@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Elton Costa, a passionate software developer f
 
 ## 🚀 About Me
 
-- 💻 **Languages:** JavaScript, TypeScript, Python, Go, Java
-- ⚙️ **Frameworks:** React, Node.js, Next.js, Express, FastAPI
+- 💻 **Languages:** Java, Python, Kotlin
+- ⚙️ **Frameworks:** Spring Boot, Spring AI, Spring Web, Maven
 - ☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD
 - 🛠️ **Interests:** Full-stack development, API design, cloud computing, automation, open-source
 
@@ -21,19 +21,17 @@ Welcome to my GitHub profile! I'm Elton Costa, a passionate software developer f
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/eltonc0stadev/)
-- [Twitter](https://twitter.com/eltonc0stadev)
-- [eltonc0stadev@gmail.com](mailto:eltonc0stadev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/eltonc0stadev/](https://www.linkedin.com/in/eltonodev/)
+- [eltonc0stadev@gmail.com](mailto:contato@eltoncosta.dev)
 
 ## 📝 Latest Projects
+<!-- - [Project 1](https://github.com/eltonc0stadev/project1): Short description of project 1. -->
 
-- [Project 1](https://github.com/eltonc0stadev/project1): Short description of project 1.
-- [Project 2](https://github.com/eltonc0stadev/project2): Short description of project 2.
-- [Project 3](https://github.com/eltonc0stadev/project3): Short description of project 3.
+- Coming soon..
 
 ## 💡 Fun Fact
 
-When I'm not coding, you'll find me playing chess, hiking, or learning new languages (both spoken and programming)!
+When I'm not coding, you'll find me playing battlefied 4, hiking, or learning new languages (both spoken and programming)!
 
 ---
 
