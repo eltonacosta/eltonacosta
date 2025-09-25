@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Elton Costa, a passionate software developer f
 
 ## 📈 GitHub Stats
 
-![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonc0stadev&show_icons=true&theme=radical)
+![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonacosta&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
