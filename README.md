@@ -34,6 +34,6 @@ Welcome to my GitHub profile! I'm Elton Costa, a passionate software developer f
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/eltoncostadev/)
-- [contato@eltoncosta.dev](mailto:contatoeltonacosta@gmail.com)
+- [contatoeltonacosta@gmail.com](mailto:contatoeltonacosta@gmail.com)
 
 Thanks for visiting my profile! Let's connect and create something amazing together 🚀
