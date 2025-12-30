@@ -28,10 +28,6 @@ Welcome to my GitHub profile! I'm Elton Costa, a passionate software developer f
 - Distributed systems
 - AI & ML concepts
 
-## 📈 GitHub Stats
-
-![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonacosta&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/eltoncostadev/)
