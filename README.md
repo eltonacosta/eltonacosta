@@ -2,39 +2,12 @@
 
 Desenvolvedor de software interessado em criar soluções úteis, bem estruturadas e que resolvem problemas reais. Gosto de aprender na prática, explorar novas tecnologias e transformar ideias em projetos.
 
-## 🐍 Uma pausa para jogar
-
-O GitHub não permite executar jogos interativos dentro do README, mas a cobrinha já está passeando por aqui:
-
-<p align="center">
-  <img src="assets/snake.gif" alt="Animação do minigame Snake" width="720" />
-</p>
-
 ## 🧰 Tecnologias
 
-**Linguagens**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" />
-</p>
-
-**Frameworks**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" />
-</p>
-
-**Cloud e ferramentas**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,spring,nextjs,angular,aws,gcp,git,github&perline=5" alt="Java, JavaScript, Python, Spring, Next.js, Angular, AWS, Google Cloud, Git e GitHub" />
+  </a>
 </p>
 
 ## 🌱 Interesses
@@ -49,3 +22,17 @@ Desenvolvimento full-stack · APIs · computação em nuvem · automação · c�
 ---
 
 Obrigado pela visita! Vamos construir algo legal juntos 🚀
+
+---
+
+## 🐍 A cobrinha chegou ao seu perfil!
+
+Uma nova Snake, animada a partir do seu gráfico de contribuições. Para jogar de verdade, [abra a demonstração interativa](https://platane.github.io/snk) — imagens em READMEs não aceitam controles.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eltonacosta/eltonacosta/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eltonacosta/eltonacosta/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/eltonacosta/eltonacosta/output/github-contribution-grid-snake.svg" alt="Animação da Snake percorrendo o gráfico de contribuições do GitHub" />
+  </picture>
+</p>
