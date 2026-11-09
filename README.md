@@ -25,14 +25,8 @@ Obrigado pela visita! Vamos construir algo legal juntos 🚀
 
 ---
 
-## 🐍 A cobrinha chegou ao seu perfil!
-
-Uma nova Snake, animada a partir do seu gráfico de contribuições. Para jogar de verdade, [abra a demonstração interativa](https://platane.github.io/snk) — imagens em READMEs não aceitam controles.
+## 💻 Um pouco sobre mim
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eltonacosta/eltonacosta/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eltonacosta/eltonacosta/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/eltonacosta/eltonacosta/output/github-contribution-grid-snake.svg" alt="Animação da Snake percorrendo o gráfico de contribuições do GitHub" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&height=60&lines=Desenvolvedor+full-stack;Construindo+solu%C3%A7%C3%B5es+que+fazem+a+diferen%C3%A7a;Sempre+aprendendo%2C+sempre+evoluindo" alt="Desenvolvedor full-stack. Construindo soluções que fazem a diferença. Sempre aprendendo, sempre evoluindo." />
 </p>
